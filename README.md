@@ -1,6 +1,6 @@
 # Restricted-Textarea-Roadmap - Solution
 
-<img src="textarea-input-vdclr.png" alt="Solucion preview" style="max-width: 100%; height: auto;">
+<img src="image/textarea-input-vdclr.png" alt="Solucion preview" style="max-width: 100%; height: auto;">
 
 Esta es una solución del proyecto **Changelog Component** como parte del reto de codificación #RoadMapFrontEnd [RoadMap](https://roadmap.sh/projects/restricted-textarea). La mejor manera de escribir un buen código es programando todos los días🔥.
 
