@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta targs SEO -->
+    <meta name="description" content="Este proyecto muestra una interfaz de textarea con límite de caracteres y feedback visual para los usuarios." />
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Miguel Alonso Ramos Alarcon" />
+    <meta name="copyright" content="Miguel Alonso Ramos Alarcon" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="image/favicon.png" type="image/x-icon">
+
+    <!-- Fonts Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet">
+    <!-- CSS Styles -->
+    <link rel="stylesheet" href="styles.css">
+    <title>Restricted Textarea</title>
+</head>
+
+<body>
+    <form action="" class="form" role="form">
+        <label for="text-area" aria-label="Escriba su mensaje">Write your Message</label>
+        <textarea name="" id="text-area" rows="5" placeholder="Start typing..." maxlength="250"></textarea>
+        <p id="result" aria-live="polite"></p>
+    </form>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
