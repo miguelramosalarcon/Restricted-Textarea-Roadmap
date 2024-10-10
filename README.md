@@ -35,7 +35,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 <details>
     <summary>📱 Mobile version</summary>
 
-![](image/mobile.jpeg)
+![](image/mobile.png)
 </details>
 
 
